@@ -78,7 +78,7 @@ const handleSubmit = () => {
 
 <style scoped>
 .header {
-    background-image: url('../../dist/bg.jpg');
+    background-image: url('/bg.jpg');
     background-size: cover;
     background-position: center;
 }
